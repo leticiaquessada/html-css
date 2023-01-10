@@ -1,6 +1,33 @@
+*{
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
 header{
 	background-color: #000;
 	color: #fff;
 	padding: 10px;
 	font-family: arial;
+}
+h3{
+	font-size: 20px;
+	font-family: arial;
+	margin: 0;
+	padding: 5px;
+}
+h4{
+	font-size: 10px;
+	font-family: arial;
+	margin: 0;
+	padding: 5px;
+}
+body{
+	background-color: #F5F5F5;
+}
+.container{
+	display: block;
+	background-color: #fff;
+	width: 95%;
+	box-shadow: 2px 2px #DCDCDC;
+	margin: 0 auto;
 }
